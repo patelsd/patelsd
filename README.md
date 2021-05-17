@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shreyesh Patel
+- 👀 I’m interested in software development and project management.
+- 🌱 I’m currently learning Android Development using Java/Kotlin.
+- 📫 Email: patelsd@msoe.edu
